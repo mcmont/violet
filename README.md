@@ -1,5 +1,5 @@
 # violet
-A library of useful helper functions to the Indigo computational chemistry toolkit, written in Python.
+A library of useful helper functions to the Indigo computational chemistry toolkit, written in Python. These functions mostly generate molecular properties that aren't available in the core Indigo library.
 
 ## Installation
 Make sure you have a working version of the Indigo Python bindings installed. Please follow the [installation guide on EPAM's website](http://lifescience.opensource.epam.com/indigo/index.html). 
